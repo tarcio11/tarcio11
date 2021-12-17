@@ -72,30 +72,30 @@
 
   <br>
   
-> ## Contacts
- <div align="center">  
+  > ## Contacts
+  <div align="center">  
   <kbd> 
   <div align="center">
   <kbd>Sociais</kbd>
-  </div>
-<a href = "mailto:tarcio_x@hotmail.com">
+  </div>  
+<div style="display: inline_block"><br>  
+ <a href = "mailto:tarcio_x@hotmail.com">
   <img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank">
-</a>
-<a href="https://www.instagram.com/tarcio_x/" target="_blank">
+ </a>
+ <a href="https://www.instagram.com/tarcio_x/" target="_blank">
   <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank">
-</a>
-<a href="https://www.linkedin.com/in/tarcio-rocha-79b487173/" target="_blank">
+ </a>
+ <a href="https://www.linkedin.com/in/tarcio-rocha-79b487173/" target="_blank">
   <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
-</a>
+ </a>
 <a href="https://api.whatsapp.com/send?phone=5594984073668&text=Olá,%20Gostaria%20de%20entrar%20em%20contato!." target="_blank">
   <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank">
 </a>
-
-![Snake animation]('https://platane.github.io/snk/')
-
 </div>
 </kbd>
-  </div>
+</div>
+  
+![snake gif](https://github.com/tarcio11/tarcio11/blob/output/github-contribution-grid-snake.svg)
 
 #### "Tenha muito cuidado com o que você deseja de coração, porque por certo será seu" - Napoleon Hill  
   
